@@ -1,16 +1,9 @@
-# bloc_facilito
+# Bloc para principiantes 
 
-A new Flutter project.
+Youtube video : https://youtu.be/xzMmr9WUVE4
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalación
+Para ejecutar este proyecto por su cuenta, haga lo siguiente:
+1. Clone este proyecto.
+2. Ejecute `flutter pub get`.
+3. Ejecute el proyecto usando `flutter run` o usando las herramientas de su IDE.
